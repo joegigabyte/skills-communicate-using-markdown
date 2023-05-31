@@ -1,6 +1,6 @@
-# This is the <H1> header added the to index.md 
+# This is the \<H1\> header added the to index.md 
  
-### This is the <H3> header added to the index.md 
+### This is the \<H3\> header added to the index.md 
   
 Testing out other markdown features:
   1. this is an ordered list 
@@ -27,3 +27,9 @@ Testing out other markdown features:
  # testing how the code comments look
  variable = x + 1 
  ```
+
+ ## TASK list 
+ 
+ - [x] this first part is done
+ - [x] completed steps 2-4, from adding a picture to adding code into the markdown file 
+ - [ ] idk what is next 
