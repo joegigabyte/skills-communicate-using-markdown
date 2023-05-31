@@ -19,4 +19,4 @@ Testing out other markdown features:
  ## Adding an image to this markdown file 
  
  The following will be the image </br>
- ![rnadom dude eating a pizza](https://edit.co.uk/uploads/2016/12/Image-2-Alternatives-to-stock-photography-Thinkstock.jpg)
+ ![random dude eating a pizza](https://edit.co.uk/uploads/2016/12/Image-2-Alternatives-to-stock-photography-Thinkstock.jpg)
