@@ -20,3 +20,10 @@ Testing out other markdown features:
  
  The following will be the image </br>
  ![random dude eating a pizza](https://edit.co.uk/uploads/2016/12/Image-2-Alternatives-to-stock-photography-Thinkstock.jpg)
+
+ 
+ ```python
+ import pandas as pd 
+ # testing how the code comments look
+ variable = x + 1 
+ ```
